@@ -1,11 +1,15 @@
 body {
-    background-color:grey
+    background-color: #000000;
 }
 
-p {+
-text-align: center;
+hi {
+    text-align: center;
+}
+ 
+p {
+    text-align: center;
 }
 
 em p {
-    color: red;
+    color: rgba(5, 171, 248, 0.993);
 }
